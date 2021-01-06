@@ -14,7 +14,7 @@ Heart disease is the leading cause of death in the United States. Researchers ar
 
 ## testing and graphing results
 From the testing results above, we could tell that
-<img src="./p1.png" alt="Editor" width="700", height="600"><br>
+<img src="./p1.png" alt="Editor" width="700" height="600"><br>
 1 Sex and Heart disease are associated
 
 <img src="./p2.png" alt="Editor" width="700"><br>
